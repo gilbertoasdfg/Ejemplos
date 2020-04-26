@@ -4,7 +4,6 @@
   if(isset($_SESSION['id'])){
     header('location: controller/redirec.php');
   }
-
 ?>
 
 <!DOCTYPE html>
